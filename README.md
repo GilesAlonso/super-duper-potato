@@ -1,6 +1,8 @@
 # super-duper-potato
-Primeiro teste do Git Hub
+Primeiro Teste do Git Hub
 
-Formado em odontologia, com especialização em ortodontia, enveredei pela análise de dados.
+1 Formado em odontologia, com especialização em ortodontia, enveredei pela análise de dados.
 
 ☕ 🚑
+
+Bla bla bla, teste commit
